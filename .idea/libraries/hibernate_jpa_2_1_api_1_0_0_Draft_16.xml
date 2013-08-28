@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="hibernate-jpa-2.1-api-1.0.0.Draft-16">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Draft-16/jar/7dd9db01c7aae0918f3846195423ccde05b5a861/hibernate-jpa-2.1-api-1.0.0.Draft-16.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/org.hibernate.javax.persistence/hibernate-jpa-2.1-api/1.0.0.Draft-16/source/b75c659f698506767a2127ab9f31fceef481457b/hibernate-jpa-2.1-api-1.0.0.Draft-16-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

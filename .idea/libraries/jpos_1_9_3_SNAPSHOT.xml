@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jpos-1.9.3-SNAPSHOT">
+    <CLASSES>
+      <root url="jar:///Opt/ivy-repository/org.jpos/jpos/1.9.3-SNAPSHOT/jpos-1.9.3-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///Opt/ivy-repository/org.jpos/jpos/1.9.3-SNAPSHOT/jpos-1.9.3-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

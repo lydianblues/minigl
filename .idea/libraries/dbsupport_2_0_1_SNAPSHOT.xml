@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="dbsupport-2.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar:///Opt/ivy-repository/org.jpos.ee/dbsupport/2.0.1-SNAPSHOT/dbsupport-2.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file:///Opt/jpos/dbsupport/src/main/java" />
+    </SOURCES>
+  </library>
+</component>

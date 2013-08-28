@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="je-4.1.10">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.sleepycat/je/4.1.10/jar/701e988a9ecdf5ce17c56c3dbae280e007773b62/je-4.1.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/artifacts-26/filestore/com.sleepycat/je/4.1.10/source/c1e65b740621f3ee406a2c68cd5fc94da3d5dc9/je-4.1.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
